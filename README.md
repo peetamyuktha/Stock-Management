@@ -1,8 +1,8 @@
-# inventory-management
+# Stock-management
 
-# Inventory Management System
+# Stock Management System
 
-This is a simple Inventory Management System implemented in Python using MySQL database for storage. It allows three types of users: Admin, Customer, and Supplier to interact with the inventory.
+This is a simple Stock Management System implemented in Python using MySQL database for storage. It allows three types of users: Admin, Customer, and Supplier to interact with the stock.
 
 ## Features
 
